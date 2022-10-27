@@ -4,22 +4,12 @@ const app = express();
 app.use(cors());
 const Port = process.env.Port || 5000;
 
-const courses = require("./data/courses.json");
 const category = require('./data/data.json');
 
 app.get("/", (req, res) => {
     res.send("Server is Running");
 });
 
-app.get("/courses", (req, res) => {
-    res.send(courses);
-});
-
-app.get("/courses/:id", (req, res) => {
-    const id = req.params.id;
-    const courses_details = category.filter((n) => n.courses_id === id);
-    res.send(courses_details);
-});
 
 app.get('/category', (req, res) => {
     res.send(category);
