@@ -3,42 +3,42 @@
         "_id": "1",
         "category_id": "012033an34ita5669921",
         "title": "Python",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F686939749411186223%2F&psig=AOvVaw353mZlY-oVsVAO_oSzzL5E&ust=1666891383693000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKitk7i0_voCFQAAAAAdAAAAABAE",
+        "image_url": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
         "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
     },
     {
         "_id": "2",
         "category_id": "012033an34ita5669922",
         "title": "PHP",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FJJmbwo_php-logo-png-transparent-php-logo-png-png%2F&psig=AOvVaw2ZZBNWgoP0KQ50IgibcW4o&ust=1666891485860000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiTxOm0_voCFQAAAAAdAAAAABAO",
+        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-2111313359.jpg",
         "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server"
     },
     {
         "_id": "3",
         "category_id": "012033an34ita5669923",
         "title": "Javascript",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F691091505307190679%2F&psig=AOvVaw1PzqXfiw1GPQvNYDHprem5&ust=1666891593638000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPjtpJy1_voCFQAAAAAdAAAAABAN",
+        "image_url": "https://play-lh.googleusercontent.com/PAPuQveK8eeVwh7M4vccotAFPOJI0sENMWxnFe9RDt-_63SfVRiLUNXcpJ-8iHuVng",
         "details": "JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities."
     },
     {
         "_id": "4",
         "category_id": "012033an34ita5669924",
         "title": "Java",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjava-logo-1%2F&psig=AOvVaw2y1p3nh55-TItg72xYnvjG&ust=1666891708957000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIDGwNO1_voCFQAAAAAdAAAAABAE",
+        "image_url": "https://dev.java/assets/images/java-logo-vert-blk.png",
         "details": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages."
     },
     {
         "_id": "5",
         "category_id": "012033an34ita5669925",
         "title": "HTML5",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw3STLOZDcWEFC1Ephn0fUxB&ust=1666891810230000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiy_4O2_voCFQAAAAAdAAAAABAE",
+        "image_url": "https://www.pngfind.com/pngs/m/683-6834239_html5-html-5-hd-png-download.png",
         "details": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard."
     },
     {
         "_id": "6",
         "category_id": "012033an34ita5669926",
         "title": "CSS3",
-        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS3_logo_and_wordmark.svg&psig=AOvVaw2zs6tuSMKncYjCWRQ3Amph&ust=1666891950645000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCICjwMa2_voCFQAAAAAdAAAAABAE",
+        "image_url": "https://www.shariqueweb.com/wp-content/uploads/2015/06/css3.png",
         "details": "CSS3 stands for Cascading Style Sheet level 3, which is the advanced version of CSS. It is used for structuring, styling, and formatting web pages. Several new features have been added to CSS3 and it is supported by all modern web browsers."
     }
 ]
